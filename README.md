@@ -1,5 +1,7 @@
 # Architecture-based Risk Analysis
 
+<img src="images/KeyVisual.jpg" width="250" />
+
 ## Motivation
 The automotive industry is undergoing a transformation shift with the advent of Software-defined Vehicles (SdV) and central Electronic Control Units (ECUs), introducing unprecedented complexity within product development. In the con-text of agile methodologies, adhering to traditional risk analysis approaches becomes challenging due to the rapid release cycles and continuous evolution of products.
 
