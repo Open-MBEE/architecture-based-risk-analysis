@@ -16,3 +16,6 @@ The purpose of this repository is to facilitate the adoption of the architecture
 - providing guidelines and lessons-learned
 - providing tooling for a simple adoption by architects
 - providing automation-solutions for a simple adopting in projects
+
+## MBSE Summit 2024
+The paper [The Beauty of MBSE](The%20beauty%20of%20MBSE.pdf) is now available!
