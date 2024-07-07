@@ -31,4 +31,4 @@ The purpose of this repository is to facilitate the adoption of the architecture
 The paper [The Beauty of MBSE](docs/The_Beauty_of_MBSE.pdf) is now available!
 
 ## VDA Automotive Sys 2024
-The presentation [AbRA Architecture-based Risk Analysis for agile development (but not only)](docs/AbRA_VDA-AutomotiveSYS.pdf)
+The presentation: [AbRA Architecture-based Risk Analysis for agile development (but not only)](docs/AbRA_VDA-AutomotiveSYS.pdf)
