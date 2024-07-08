@@ -13,4 +13,4 @@ Please find the paper [The Beauty of MBSE](papers/The_Beauty_of_MBSE.pdf) here.
 
 ### VDA Sys 2024
 
-Please find the paper [AbRA Architecture-based Risk Analysis for agile development (but not only)](docs/papers/AbRA_VDA-AutomotiveSYS.pdf) here.
+Please find the paper [AbRA Architecture-based Risk Analysis for agile development (but not only)](papers/AbRA_VDA-AutomotiveSYS.pdf) here.

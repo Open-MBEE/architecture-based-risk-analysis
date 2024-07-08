@@ -27,8 +27,12 @@ The purpose of this repository is to facilitate the adoption of the architecture
 - providing tooling for a simple adoption by architects
 - providing automation-solutions for a simple adopting in projects
 
-## MBSE Summit 2024
+## Papers
+
+The documentation for AbRA is licensed under CC BY 4.0  <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png"  width="60px" />
+
+### MBSE Summit 2024
 The paper [The Beauty of MBSE](docs/papers/The_Beauty_of_MBSE.pdf) is now available!
 
-## VDA Automotive Sys 2024
+### VDA Automotive Sys 2024
 The presentation: [AbRA Architecture-based Risk Analysis for agile development (but not only)](docs/papers/AbRA_VDA-AutomotiveSYS.pdf)
