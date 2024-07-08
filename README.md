@@ -28,7 +28,7 @@ The purpose of this repository is to facilitate the adoption of the architecture
 - providing automation-solutions for a simple adopting in projects
 
 ## MBSE Summit 2024
-The paper [The Beauty of MBSE](docs/The_Beauty_of_MBSE.pdf) is now available!
+The paper [The Beauty of MBSE](docs/papers/The_Beauty_of_MBSE.pdf) is now available!
 
 ## VDA Automotive Sys 2024
-The presentation: [AbRA Architecture-based Risk Analysis for agile development (but not only)](docs/AbRA_VDA-AutomotiveSYS.pdf)
+The presentation: [AbRA Architecture-based Risk Analysis for agile development (but not only)](docs/papers/AbRA_VDA-AutomotiveSYS.pdf)
