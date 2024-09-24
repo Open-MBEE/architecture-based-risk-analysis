@@ -3,7 +3,7 @@
 <img src="images/KeyVisual.jpg" width="250" />
 
 ## Licensing
-We have the goal to provide everything to the engineering community, to facilitate the use of AbRA.
+We have the goal to provide everything to the engineering community, to facilitate the use of Algorithm-Based Risk Assessment (AbRA).
 Therefore, the tooling available under [Mozilla Public License 2.0](LICENSE).
 The [documentation](docs) is available under [CC BY 4.0](docs/LICENSE).
 See also the license files in the specific folders.
